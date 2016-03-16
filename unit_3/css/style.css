@@ -1,15 +1,9 @@
 body {
-	background: url("images/5217-trilly.png");
-	background-size: cover;
 	color: #000000;
 	font-family: Helvetica;
 	font-weight: normal;
 	font-size: 24px;
-}
-
-p {
-	text-align: left;
-	text-transform: uppercase;
+	text-align: center;
 }
 
 hr {
@@ -36,13 +30,13 @@ p {
 }
 
 #menu {
-	heigh: 84 px;
+	height: 84px;
 }
 
 ul#horizontal-list{
 	min-width: 700px;
 	list-style: none;
-	text-decoration: underline;
+	text-transform: uppercase;
 }
 
 hr#bottom-line {
