@@ -18,6 +18,7 @@ hr {
 	text-align: center;
 	font-weight: 800;
 	font-size: 36px;
+	text-transform: uppercase;
 }
 
 #slogan {
@@ -28,8 +29,7 @@ hr {
 
 p {
 	color: #000000;
-	font-family: Helvetica;
-	font-size: 24px;
+    font-size: 24px;
 }
 
 #menu {
