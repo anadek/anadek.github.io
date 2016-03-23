@@ -26,13 +26,13 @@ hr {
 #slogan {
 	font-family: 'Playfair Display', serif;
 	font-style: italic;
-	font-size: 30px;
+	font-size: 2em;
 	text-align: center;
 }
 
 p {
 	color: #000000;
-    font-size: 24px;
+    font-size: 1.5em;
 }
 
 #menu {
